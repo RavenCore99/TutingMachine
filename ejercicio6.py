@@ -6,3 +6,5 @@ def run(cadena):
     if not set(cadena).issubset({"0", "1"}):
         return cadena, False
     return cadena, cadena.endswith("0")
+
+#-------------------------------------------------#

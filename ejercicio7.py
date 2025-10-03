@@ -1,3 +1,8 @@
+#-----------------------
+     #----------------------
+
+
+
 def run(cadena):
     """
     EJERCICIO 7: Copiar cadena w#w

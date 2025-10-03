@@ -7,3 +7,6 @@ def run(cadena):
     if cadena == "0" * n + "1" * n and n > 0:
         return cadena, True
     return cadena, False
+
+#----------------------------- 
+#---------------

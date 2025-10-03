@@ -8,3 +8,6 @@ def run(cadena):
         return bin(numero + 1)[2:], True
     except:
         return cadena, False
+    
+    #----------------
+    #--------------------------------
